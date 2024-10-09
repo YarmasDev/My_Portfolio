@@ -1,0 +1,30 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #f3f3f3;
+  color: #333;
+}
+
+h1, h2, h3 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #00aaff;
+}
+
+input, textarea {
+  font-family: 'Poppins', sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* Custom Hero Gradient */
+.hero-gradient {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+}
