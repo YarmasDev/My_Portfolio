@@ -12,7 +12,7 @@ export const translations: Record<Language, Record<string, any>> = {
     hero: {
       greeting: "Hello, I'm",
       name: "Nickolas Yarmas",
-      subtitle: "Architecting Intelligent Agents & Scalable Systems",
+      subtitle: "AI & Full Stack Developer",
       cta1: "View Experience",
       cta2: "Contact Me",
     },
@@ -120,7 +120,7 @@ export const translations: Record<Language, Record<string, any>> = {
     hero: {
       greeting: "Hola, soy",
       name: "Nickolas Yarmas",
-      subtitle: "Arquitecto de Agentes Inteligentes y Sistemas Escalables",
+      subtitle: "AI & Full Stack Developer",
       cta1: "Ver Proyectos",
       cta2: "Contáctame",
     },
